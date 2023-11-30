@@ -1,2 +1,4 @@
 # jedicraft-newgen-easy
-JediCraft with free items
+JediCraft NewGen with free items
+
+Commands: /items, /fraction, /level, /bin, /repair, /spawn, /base, /naboo, /kamino, /mustafar, /hoth. 
