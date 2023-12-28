@@ -1,0 +1,4 @@
+jedinewgeneasy.enderman.cloud
+mc1108092.fmcs.cloud
+scorpion.de.freemcserver.net:26271
+168.119.141.111:26271
